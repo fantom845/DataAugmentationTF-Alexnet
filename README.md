@@ -21,7 +21,4 @@ Check out the linked [report](https://app.wandb.ai/authors/tfaugmentation/report
 * Augmentation implementations.
 * Evaluation of these augmentation techniques against [Cifar-10-C dataset](https://zenodo.org/record/2535967).
 
-## Model Used
-
-![ResNet-20](https://github.com/ayulockin/DataAugmentationTF/blob/master/images/model.png)
-
+Alexnet model used
